@@ -1,0 +1,13 @@
+body{
+    background-color: greenyellow;
+}
+h1{
+    background-color: chartreuse;
+    color: green;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
